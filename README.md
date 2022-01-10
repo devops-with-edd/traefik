@@ -1,6 +1,4 @@
-# Traefik Training Course Resources
-
-<img src="./img/Traefik_training.png" alt="Traefik Logo" height="350"> 
+# 56K.Cloud Traefik Training Course Resources
 
 Welcome to the Traefik Training & Labs. This repo contains [Traefik](https://containo.us/traefik/) course resources for the [Traefik Training](https://www.thebyte.io/traefik-training) course authored both by the respective companies or organizations, and by members of the community. We welcome contributions and want to grow the repo.
 
@@ -43,6 +41,5 @@ Welcome to the Traefik Training & Labs. This repo contains [Traefik](https://con
 If you see an error or something needs updating please contribute back to the repo
 
 [Guide to submitting your own tutorial](contribute.md)
-
 
 
